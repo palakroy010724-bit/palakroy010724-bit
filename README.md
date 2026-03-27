@@ -1,8 +1,12 @@
 ## Hi there 👋
 name: Palak Roy
+<br>
 reg. no. : 25BAI11268
+<br>
 branch: CSE AIML
+<br>
 year: 2026
+<br>
 i am looking forward to learn and work on a lot of projects here with all the knowledge i have gained through this course of digital literacy.
 <!--
 **palakroy010724-bit/palakroy010724-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
