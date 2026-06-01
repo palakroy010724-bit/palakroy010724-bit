@@ -1,5 +1,5 @@
 ## Hi there 👋
-name: Palak Roy
+name: Palak sharma
 <br>
 reg. no. : 25BAI11268
 <br>
