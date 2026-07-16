@@ -1,4 +1,3 @@
-
 👋 Hi, I’m Palak Roy! 
 
 I’m a passionate developer focused on the intersection of software engineering, data structures, and the future of finance. Currently, I use this space to push code, refine my problem-solving skills, and build out next-gen ideas.
